@@ -2,7 +2,7 @@ package org.h2k.openmrs.tests;
 
 /**
  * Hello world!
- * modify
+ * modify the
  *
  */
 public class App 
